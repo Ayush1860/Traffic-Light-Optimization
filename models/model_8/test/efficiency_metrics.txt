@@ -1,0 +1,4 @@
+Total vehicles passed: 502
+Average waiting time: 36.83 s/vehicle
+Average queue length: 351.30 vehicles
+Total reward: -1875864.00

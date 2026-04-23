@@ -1,0 +1,7 @@
+tensorflow
+torch
+ultralytics
+scikit-fuzzy
+sumolib
+traci
+opencv-python

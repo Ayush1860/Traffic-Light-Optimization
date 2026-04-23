@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+    <!-- We leave connections empty to let netconvert determine them based on standard SUMO guessing. -->
+    <!-- But we add a .tll.xml file to ensure identical phases for our RL agent. -->
+</connections>

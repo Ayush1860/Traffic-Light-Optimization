@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges>
+    <edge id="W2TL1" from="W" to="TL1" numLanes="4" speed="13.89"/>
+    <edge id="TL12W" from="TL1" to="W" numLanes="4" speed="13.89"/>
+    
+    <edge id="N12TL1" from="N1" to="TL1" numLanes="4" speed="13.89"/>
+    <edge id="TL12N1" from="TL1" to="N1" numLanes="4" speed="13.89"/>
+    
+    <edge id="S12TL1" from="S1" to="TL1" numLanes="4" speed="13.89"/>
+    <edge id="TL12S1" from="TL1" to="S1" numLanes="4" speed="13.89"/>
+    
+    <edge id="TL12TL2" from="TL1" to="TL2" numLanes="4" speed="13.89"/>
+    <edge id="TL22TL1" from="TL2" to="TL1" numLanes="4" speed="13.89"/>
+    
+    <edge id="N22TL2" from="N2" to="TL2" numLanes="4" speed="13.89"/>
+    <edge id="TL22N2" from="TL2" to="N2" numLanes="4" speed="13.89"/>
+    
+    <edge id="S22TL2" from="S2" to="TL2" numLanes="4" speed="13.89"/>
+    <edge id="TL22S2" from="TL2" to="S2" numLanes="4" speed="13.89"/>
+    
+    <edge id="TL22TL3" from="TL2" to="TL3" numLanes="4" speed="13.89"/>
+    <edge id="TL32TL2" from="TL3" to="TL2" numLanes="4" speed="13.89"/>
+    
+    <edge id="N32TL3" from="N3" to="TL3" numLanes="4" speed="13.89"/>
+    <edge id="TL32N3" from="TL3" to="N3" numLanes="4" speed="13.89"/>
+    
+    <edge id="S32TL3" from="S3" to="TL3" numLanes="4" speed="13.89"/>
+    <edge id="TL32S3" from="TL3" to="S3" numLanes="4" speed="13.89"/>
+    
+    <edge id="TL32E" from="TL3" to="E" numLanes="4" speed="13.89"/>
+    <edge id="E2TL3" from="E" to="TL3" numLanes="4" speed="13.89"/>
+</edges>
